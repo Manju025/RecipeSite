@@ -1,0 +1,114 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+
+}
+
+header {
+    background-color: rgb(35, 30, 30);
+    text-align: center;
+    padding: 20px;
+    color: aquamarine;
+}
+
+.recipe-list {
+    max-width: 100%;
+    background-color: rgb(157, 96, 58);
+}
+
+.recipe {
+    padding: 10px;
+    border: 5px solid #332929;
+    margin-bottom: 10px;
+    background-color: rgb(157, 96, 58);
+}
+
+.breakfast {
+    background-color: #8d4d25;
+    text-align: center;
+    padding: 10px;
+}
+
+.breakfast img {
+    width: 60%;
+    background-position: center;
+    background-size: cover;
+}
+
+.breakfast button {
+    padding: 10px;
+    width: 140px;
+    color: rgb(248, 252, 11);
+    background-color: #608e20;
+    margin: 10px;
+    border-bottom-right-radius: 15px;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.breakfast button:hover {
+    background-color: #0e670e;
+}
+
+.lunch {
+    background-color: #8d4d25;
+    text-align: center;
+    padding: 10px;
+}
+
+.lunch img {
+    width: 60%;
+    background-position: center;
+    background-size: cover;
+}
+
+.lunch button {
+    padding: 10px;
+    width: 140px;
+    color: rgb(248, 252, 11);
+    background-color: #608e20;
+    margin: 10px;
+    border-bottom-right-radius: 15px;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.lunch button:hover {
+    background-color: #0e670e;
+}
+
+.dinner {
+    background-color: #8d4d25;
+    text-align: center;
+    padding: 10px;
+}
+
+.dinner img {
+    width: 60%;
+    background-position: center;
+    background-size: cover;
+}
+
+.dinner button {
+    padding: 10px;
+    width: 140px;
+    color: rgb(248, 252, 11);
+    background-color: #608e20;
+    margin: 10px;
+    border-bottom-right-radius: 15px;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.dinner button:hover {
+    background-color: #0e670e;
+}
